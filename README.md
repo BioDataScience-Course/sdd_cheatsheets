@@ -1,2 +1,3 @@
-# cheatsheets
-Aide mémoire incluant la philosophie SciViews
+# Cheatsheets
+
+Aide mémoires incluant la philosophie SciViews.
