@@ -1,0 +1,31 @@
+---
+title: "Aide-mémoire SDD"
+author: "Philippe Grosjean & Guyliann Engels"
+format: html
+editor: visual
+---
+
+## Base
+
+|                      |                                                                                                                       |          |
+|----------------------|-----------------------------------------------------------------------------------------------------------------------|----------|
+| `<-`                 | assignation                                                                                                           | `x <- 1` |
+| `->`, `%<-%`, `%->%` | assignations alternatives                                                                                             |          |
+| `# Commentaire`      | utiliser un dièse (#) pour commencer un commetaire                                                                    |          |
+| `()` et `{}`         | Les parenthèses spécifient l'ordre des opérations dans une instruction. Les accolades groupent plusieurs instructions |          |
+
+### Vecteurs
+
+|         |                                               |                             |
+|---------|-----------------------------------------------|-----------------------------|
+| `c()`   | Concaténer plusieurs éléments dans un vecteur | `v1 <- c(1, 2, 3)`          |
+| `a:b`   | Créer une suite de nombres                    | `1:5 # Donne 1, 2, 3, 4, 5` |
+| `v1[ ]` | Indexer un vecteur :                          |                             |
+
+## Manipulation de données
+
+...
+
+## Graphiques
+
+...
